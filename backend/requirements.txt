@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+pydantic
+langchain
+sentence-transformers
+chromadb
+huggingface-hub
